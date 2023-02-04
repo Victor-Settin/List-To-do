@@ -140,7 +140,7 @@ span.todo-text {
 }
 @media (max-width: 400px) {
     .todo-container {
-        width: 75%;
+        width: 75% !important;
     }
 }
 @keyframes shake {
